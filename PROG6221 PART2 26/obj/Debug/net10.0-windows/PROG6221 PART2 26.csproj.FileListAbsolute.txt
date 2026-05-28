@@ -1,0 +1,11 @@
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26_MarkupCompile.cache
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26_MarkupCompile.lref
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26.g.resources
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26.AssemblyInfoInputs.cache
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26.AssemblyInfo.cs
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26.csproj.CoreCompileInputs.cache
+C:\Users\malma\OneDrive\Documentos\PROG6221 PART2 2026\PROG6221 PART2 26\obj\Debug\net10.0-windows\PROG6221 PART2 26.sourcelink.json
